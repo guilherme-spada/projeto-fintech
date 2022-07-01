@@ -1,0 +1,24 @@
+
+
+.bg{
+    background-image: url("../img/fundo.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: left;
+    background-attachment: fixed;
+}
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 13px;
+
+}
+
+.caixa{
+    width: 371px;
+}
+
+
